@@ -1,4 +1,5 @@
 *About the Author*
+
 My name is Suprita Raha. 
 I've delved into the world of data analytics through personal projects involving Excel and Power BI dashboards. 
 From HR and financial analytics to customer and sales insights, I've dedicated time to clean, structure, and visualize data for meaningful exploration. 
@@ -14,6 +15,8 @@ Begin with data cleansing and structuring of HR data, including employee perform
 Utilize PowerBI's capabilities to create insightful visuals like heatmaps, organizational charts, and KPI cards to showcase HR metrics effectively.
 Implement dynamic filtering using slicers and drill-through features to allow detailed exploration of HR data.
 Apply a cohesive theme that aligns with HR objectives, and incorporate interactive elements for user-friendly navigation.
+
+
 
 
 *Financial Analytics Dashboard:*
